@@ -1,0 +1,14 @@
+{
+  "name": "bootsorteio",
+  "version": "1.0.0",
+  "description": "Code maked in Node.js for automatic coment on instagram publications",
+  "main": "index.js",
+  "scripts": {
+    "test": "start "
+  },
+  "author": "Matheus de Castro Oliveira",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^9.1.1"
+  }
+},
